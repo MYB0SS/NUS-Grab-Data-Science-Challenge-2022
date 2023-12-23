@@ -1,4 +1,4 @@
-# Grab Data Science Challenge 2022 (Grab Transport Services Analysis)
+# Grab Data Science Challenge 2022 
 
 ## Objective
 The primary objective of this project is to generate valuable insights and provide recommendations to help Grab alleviate issues related to delays in their transport services. By leveraging predictive modeling techniques, we aim to enhance Grab's operational efficiency and improve the overall experience for users.
